@@ -1,9 +1,9 @@
 import json
 from tkinter import Button, Entry, Label
 
-from giu_shop.canvas import tk
-from giu_shop.helpers import clean_screen
-from giu_shop.products import render_products
+from canvas import tk
+from helpers import clean_screen
+from products import render_products
 
 
 def login(username, pword):

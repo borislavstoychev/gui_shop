@@ -1,5 +1,5 @@
-from giu_shop.helpers import clean_screen
-from giu_shop.canvas import tk
+from helpers import clean_screen
+from canvas import tk
 from tkinter import Button, Label
 from tkinter.ttk import *
 import json
